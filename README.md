@@ -85,11 +85,11 @@ Secure and scalable – Handles thousands of concurrent executions.
 
 # Use Cases
 
-🔹 Automated backups & data processing (S3 file processing, ETL workflows)
-🔹 API backends (via API Gateway + Lambda)
-🔹 IoT & real-time processing (sensor data, logs, and analytics)
-🔹 Chatbots & voice assistants
-🔹 Security automation & compliance monitoring
+ Automated backups & data processing (S3 file processing, ETL workflows)
+ API backends (via API Gateway + Lambda)
+ IoT & real-time processing (sensor data, logs, and analytics)
+ Chatbots & voice assistants
+ Security automation & compliance monitoring
 
 
 
