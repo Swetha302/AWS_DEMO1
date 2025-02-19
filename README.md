@@ -1,4 +1,4 @@
-## AWS S3 AND IAM ##
+## AWS S3,IAM AND RDS
 
 ## Introduction to Amazon S3
 
@@ -38,13 +38,21 @@ AWS Identity and Access Management (IAM) is a service that helps you securely co
 ## Why Use IAM
 
 1.Security & Access Control
+
 2.Granular Permissions 
+
 3.Multi-Factor Authentication (MFA) 
+
 4.Identity Federation
+
 5.AWS Service Integration 
+
 6.Fine-Grained Policies 
+
 7.Temporary Credentials 
+
 8.Compliance & Auditing 
+
 9.Secure Cross-Account Access 
 
 
