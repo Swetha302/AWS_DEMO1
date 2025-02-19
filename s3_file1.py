@@ -1,8 +1,8 @@
 
 import boto3
 session = boto3.Session(
-    #aws_access_key_id="AKIA6IY36EY3CRJ5PQFI",
-    #aws_secret_access_key="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",
+    aws_access_key_id="AKIA6IY36EY3CRJ5PQFI",
+    aws_secret_access_key="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",
     region_name="US East (N. Virginia) us-east-1",
 )
 import os
