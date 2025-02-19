@@ -29,10 +29,10 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that offe
 2.	Data Lakes.
 
 3.	Media Hosting
-4.	
-5.	Static Website Hosting
-6.	
-7.	Big Data Analytics
+   
+4.	Static Website Hosting
+	
+5.	Big Data Analytics
 
 •	AWS S3 is a versatile and cost-effective storage service that integrates with many AWS tools for automation, security, and analytics. By leveraging features like versioning, lifecycle policies, and event notifications, users can efficiently manage their data while ensuring security and availability.
 
