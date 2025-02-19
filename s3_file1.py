@@ -7,8 +7,8 @@ session = boto3.Session(
 )
 import os
 
-#os.environ['AWS_ACCESS_KEY_ID'] = 'AKIA6IY36EY3CRJ5PQFI'
-#os.environ['AWS_SECRET_ACCESS_KEY'] = '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'
+os.environ['AWS_ACCESS_KEY_ID'] = 'AKIA6IY36EY3CRJ5PQFI'
+os.environ['AWS_SECRET_ACCESS_KEY'] = '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'
 import boto3
 from botocore.exceptions import ClientError
 
