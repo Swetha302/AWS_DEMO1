@@ -25,10 +25,12 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that offe
    * CREATING IAM USER *
    
 	![image](https://github.com/user-attachments/assets/9839ed67-077b-4984-9ff4-14eacf911b8e)
+ 
 
     * USER ACCESS KEY *
  
 	![image](https://github.com/user-attachments/assets/c575f910-5304-451a-bf87-4ae6179842f3)
+ 
 
 
 ## Use Cases of AWS S3
