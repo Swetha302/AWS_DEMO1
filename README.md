@@ -1,4 +1,4 @@
-## AWS S3,IAM AND RDS
+## AWS S3,IAM,RDS,ATHENA,GLUE
 
 ## Introduction to Amazon S3
 
@@ -13,13 +13,22 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that offe
 5.	Choose an AWS Region (e.g., us-west-2).
 6.	Configure public access settings as required.
 7.	Click "Create Bucket".
-8.
-9.	![image](https://github.com/user-attachments/assets/0e58bfac-e0b8-4b68-aa34-c49a7ef76954)
+8.	
+    *CREATING A TABLE*
+  	
+	![image](https://github.com/user-attachments/assets/0e58bfac-e0b8-4b68-aa34-c49a7ef76954)
 
-10.	![image](https://github.com/user-attachments/assets/3f3bc915-4ec7-4063-8fbe-cb6910cb930a)
-11.	![image](https://github.com/user-attachments/assets/9839ed67-077b-4984-9ff4-14eacf911b8e)
-12.
-13.	![image](https://github.com/user-attachments/assets/c575f910-5304-451a-bf87-4ae6179842f3)
+    *FILE UPLOAD*
+
+  	![image](https://github.com/user-attachments/assets/3f3bc915-4ec7-4063-8fbe-cb6910cb930a)
+
+   *CREATING IAM USER*
+   
+	![image](https://github.com/user-attachments/assets/9839ed67-077b-4984-9ff4-14eacf911b8e)
+
+    *USER ACCESS KEY*
+ 
+	![image](https://github.com/user-attachments/assets/c575f910-5304-451a-bf87-4ae6179842f3)
 
 
 ## Use Cases of AWS S3
